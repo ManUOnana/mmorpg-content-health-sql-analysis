@@ -177,8 +177,8 @@ actual_clear_rate - target_clear_rate AS clear_rate_gap
 
 * SQL 분석 코드: `sql/`
 * SQL 실행 결과 CSV: `result/`
-* Tableau 대시보드: 별도 Tableau Public 또는 이미지로 정리
-* 상세 분석 문서: Notion 페이지에 정리
+* Tableau 대시보드: [Tableau Public 대시보드](https://public.tableau.com/views/_1_17821238057310/sheet6?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* 상세 분석 문서: [Notion 상세 분석 페이지](https://rhetorical-crater-1dd.notion.site/379e53abfe3e8042a9bdf0b0d31b85fd?v=379e53abfe3e806aab20000cf17b52c6&source=copy_link)
 
 ## 12. 프로젝트 의의
 
